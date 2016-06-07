@@ -13,7 +13,7 @@
 		}
 		else
 		{
-			$loginError = "Wrong password !";
+			$loginError = "错误密码！";
 		}
 	}
 ?>
@@ -31,7 +31,7 @@
 	<div class="row">
 		<div class="col-md-4"></div>
 		<div class="col-md-4">
-			<h2>Login :</h2>
+			<h2>登录 :</h2>
 		</div>
 		<div class="col-md-4"></div>
 	</div>
